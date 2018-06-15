@@ -1,0 +1,45 @@
+Listening on port 3000 . Time: 1528979680587
+GET method called . Time: 1528979741047
+GET method called . Time: 1528979741277
+Listening on port 3000 . Time: 1528980047044
+GET method called . Time: 1528980048871
+GET method called . Time: 1528980048954
+GET method called . Time: 1528980049635
+GET method called . Time: 1528980049685
+GET method called . Time: 1528980050227
+GET method called . Time: 1528980050287
+GET method called . Time: 1528980050724
+GET method called . Time: 1528980050783
+GET method called . Time: 1528980051202
+GET method called . Time: 1528980051267
+GET method called . Time: 1528980093979
+GET method called . Time: 1528980094041
+GET method called . Time: 1528980094794
+GET method called . Time: 1528980094842
+GET method called . Time: 1528980095290
+GET method called . Time: 1528980095349
+GET method called . Time: 1528980095762
+GET method called . Time: 1528980095817
+GET method called . Time: 1528980152509
+GET method called . Time: 1528980152668
+POST method called . Time: 1528980154266
+GET method called . Time: 1528980154352
+GET method called . Time: 1528980157181
+GET method called . Time: 1528980158201
+GET method called . Time: 1528980158250
+POST method called . Time: 1528980159521
+GET method called . Time: 1528980159575
+GET method called . Time: 1528986721287
+POST method called . Time: 1528986723446
+GET method called . Time: 1528986723584
+Listening on port 3000 . Time: 1529069373928
+GET method called . Time: 1529069380405
+GET method called . Time: 1529069380649
+POST method called . Time: 1529069383163
+GET method called . Time: 1529069383231
+GET method called . Time: 1529069384889
+Listening on port 3000 . Time: 1529069393419
+GET method called . Time: 1529069395568
+GET method called . Time: 1529069395642
+GET method called . Time: 1529069396580
+GET method called . Time: 1529069396646
